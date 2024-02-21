@@ -1,0 +1,5 @@
+﻿  DSA.cpp
+D:\OneDrive - engug.ruh.ac.lk\UOR\Sem_03\EE 3302\Mini Project new\DSA\DSA\PowerPlant.h(19,14): warning C4305: '=': truncation from 'int' to 'bool'
+  (compiling source file 'DSA.cpp')
+  
+  DSA.vcxproj -> D:\OneDrive - engug.ruh.ac.lk\UOR\Sem_03\EE 3302\Mini Project new\DSA\x64\Debug\DSA.exe
