@@ -21,3 +21,7 @@ Ishan Sachithra Kendawela
 Ashan Munasinghe
 
 Feel free to explore and enhance the Power Plant Management System.
+![WhatsApp Image 2024-02-22 at 00 12 42](https://github.com/Pabz2020/Power-plant-management-system/assets/81084302/703366ab-8dce-4c82-80c3-8400a066646b)
+![WhatsApp Image 2024-02-22 at 00 13 27](https://github.com/Pabz2020/Power-plant-management-system/assets/81084302/08177829-8e62-4238-9dd5-193de82e0843)
+
+
